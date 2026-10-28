@@ -362,6 +362,7 @@ Add AI to the editor you already use.
 | [Amp](https://ampcode.com/) | Free tier | Pair programming | AI pair programmer with deep code understanding and real-time collaboration. |
 | [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview) | Free tier | Google Cloud users | Google's AI code assistant with 1M token context window. Deep integration with Google Cloud and Android Studio. [Alternatives →](https://www.taskade.com/blog/github-copilot-alternatives) |
 | [Qodo](https://www.qodo.ai/) | Free tier | Code quality & testing | AI-powered test generation and code review. Analyzes your code and suggests meaningful tests automatically. [Alternatives →](https://www.taskade.com/blog/best-vibe-coding-tools) |
+| [Agent Standup](https://github.com/Atoll92/agent-standup) | Free | Watching parallel agents | MIT-licensed VS Code extension (also a CLI and macOS app) that shows Claude Code, Codex and Mistral Vibe sessions as a live team call: who is working, stuck, or waiting for you, with tokens per agent. |
 
 ---
 
