@@ -906,6 +906,7 @@ The most common objection to vibe coding is "the app demos well and ships insecu
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Free | Agent verification | Lets your coding agent open the deployed app in a real browser and check what it built. |
 | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | Free | Reference | The standard list of risks for apps that call language models: prompt injection, insecure output handling, and more. |
 | [VibeRaven](https://github.com/ohad6k/VibeRaven) | Free tier | Vercel + Supabase launch checks | Checks repository migrations for missing RLS and writes findings for a coding agent to review before deployment. |
+| [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Free (Apache-2.0) | Vetting agent skills before install | Statically scans `SKILL.md` skill folders for prompt injection, hidden text, credential reads and remote-exec installs, then pins installed skills to a local baseline so later changes are caught. |
 
 ---
 
